@@ -18,7 +18,13 @@ The project follows industry-standard data science practices including data unde
 ---
 
 ## Dataset Description
-**Dataset:** HAM10000 (Human Against Machine with 10,000 training images)
+**Dataset:** The HAM10000 dataset is **not included in this repository** due to its large size (~2.8 GB).  
+You can download it from the official source here:
+
+[HAM10000 dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+
+After downloading, extract the dataset and place the images in your local project structure as needed:
+HAM10000 (Human Against Machine with 10,000 training images)
 
 A large-scale public dermatoscopic dataset widely used in medical image analysis research.
 
